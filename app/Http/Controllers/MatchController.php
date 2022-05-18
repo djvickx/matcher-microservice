@@ -2,9 +2,6 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\Property;
-use App\Models\SearchProfile;
-
 use Illuminate\Http\Request;
 
 class MatchController extends Controller
